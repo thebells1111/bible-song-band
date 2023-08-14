@@ -1,0 +1,68 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
+  <channel>
+    <generator>Music Side Project Studio</generator>
+    <itunes:category text="Music"/>
+    <itunes:keywords>music</itunes:keywords>
+    <podcast:medium>music</podcast:medium>
+    <itunes:author>The Bible Song Band</itunes:author>
+    <itunes:owner itunes:name="The Bible Song Band" itunes:email=""/>
+    <title>The Bible Song Sing Along</title>
+    <description>Memorize Scripture with Music</description>
+    <itunes:image href="https://cdn.satellite.earth/56ea875c05e85b282e59b2b21603c84c6f21dafd2ea1c0d5cfd3c9527c8352dd.png"/>
+    <itunes:explicit>no</itunes:explicit>
+    <podcast:value type="lightning" method="keysend">
+      <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
+      <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+    </podcast:value>
+    <podcast:guid>ed1ec461-d375-5eef-bb7d-8a8053d10801</podcast:guid>
+    <item>
+      <pubDate>Mon, 14 Aug 2023 17:01:37 +0000</pubDate>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <guid isPermaLink="false">a72688d3-0d84-4c10-aef9-e50bab595a6d</guid>
+      <title>The Beatitudes (Matthew 5:1 - 16)</title>
+      <enclosure url="https://cdn.satellite.earth/f3785fd0e7256c69064e908318424405604f26e1302385bafe8032e0e99c7aa7.mp3" type="audio/mpeg" length="4660339"/>
+      <itunes:duration>00:03:52</itunes:duration>
+      <description>And seeing the multitudes, He went up on a mountain, 
+and when He was seated His disciples came to Him. 
+Then He opened His mouth and taught them, saying:
+
+Blessed are the poor in spirit,
+For theirs is the kingdom.
+
+Blessed are those who mourn,
+For they shall be comforted.
+
+Blessed are the meek,
+For they shall inherit the earth.
+
+Blessed are those who hunger and thirst for righteousness,
+For they shall be filled.
+
+Blessed are the merciful,
+For they shall obtain mercy.
+
+Blessed are the pure in heart,
+For they shall see God.
+
+Blessed are the peacemakers,
+For they shall be called sons of God.
+
+Blessed are those who are persecuted for righteousness’ sake,
+For theirs is the kingdom of heaven.
+
+Blessed are you when they revile and persecute you, and say all kinds of evil against you falsely for My sake. Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you.
+
+
+You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.
+
+You are the light of the world. A city that is set on a hill cannot be hidden. Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house. Let your light so shine before men, that they may see your good works and glorify your Father in heaven.</description>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://cdn.satellite.earth/5fc6896f1aabd2b04a2883ca0f986e104de26eae726431ac278ef59dd824a051.png"/>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+      </podcast:value>
+    </item>
+  </channel>
+</rss>
