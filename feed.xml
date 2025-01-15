@@ -11,8 +11,8 @@
     <itunes:image href="https://cdn.satellite.earth/56ea875c05e85b282e59b2b21603c84c6f21dafd2ea1c0d5cfd3c9527c8352dd.png"/>
     <itunes:explicit>no</itunes:explicit>
     <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-      <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+      <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+      <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
     </podcast:value>
     <podcast:guid>ed1ec461-d375-5eef-bb7d-8a8053d10801</podcast:guid>
     <item>
@@ -60,8 +60,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://cdn.satellite.earth/5fc6896f1aabd2b04a2883ca0f986e104de26eae726431ac278ef59dd824a051.png"/>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -74,8 +74,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:04:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -88,8 +88,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:03:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -102,8 +102,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:03:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -116,8 +116,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:04:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -130,8 +130,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:04:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -144,8 +144,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:04:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -158,8 +158,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:03:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -172,8 +172,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:02:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -186,8 +186,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:04:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -200,8 +200,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:02:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -214,8 +214,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:07:12</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -228,8 +228,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:03:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -242,8 +242,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:03:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -256,8 +256,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:06:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -270,8 +270,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:03:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -284,8 +284,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:03:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
     <item>
@@ -298,8 +298,8 @@ You are the light of the world. A city that is set on a hill cannot be hidden. N
       <itunes:duration>00:02:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient type="node" name="Music Side Project" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="UzrnTK2oEHR55gw7Djmb" split="10"/>
-        <podcast:valueRecipient type="node" name="The Bible Song Band" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="oVfF1oKbioBHbqKzwWgW" split="90"/>
+        <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
+        <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
       </podcast:value>
     </item>
   </channel>
