@@ -12,7 +12,7 @@
     <itunes:explicit>no</itunes:explicit>
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient type="node" name="Music Side Project" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="10"/>
-      <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="90"/>
+      <podcast:valueRecipient type="node" name="The Bible Song Band" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" customKey="696969"  customValue="24" split="90"/>
     </podcast:value>
     <podcast:guid>ed1ec461-d375-5eef-bb7d-8a8053d10801</podcast:guid>
     <item>
