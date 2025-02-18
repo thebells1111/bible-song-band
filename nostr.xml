@@ -1,0 +1,28 @@
+<root>
+  <podcast:auth protocol="nostr">
+	 <![CDATA[
+    {
+    "created_at": 1739911477,
+    "content": "",
+    "kind": 33333,
+    "tags": [
+        [
+            "hash",
+            "65b9b1e452d11ef68ea35445f1c9ed3c7caf0807"
+        ],
+        [
+            "u",
+            "https://raw.githubusercontent.com/thebells1111/bible-song-band/refs/heads/main/feed.xml"
+        ]
+    ],
+    "pubkey": "23103189356cf7c8bc09bb8b431fc3e71e85582c8f755b9ee160203c9c19e403",
+    "id": "0250529120ea5bcf29574923a3f45a7b0c941ad0e32f6d27a9a3fb6d6e6e0de7",
+    "sig": "9a1e60dd48895bff75999041439b22c4ad4f00ee0dbb16ed62a48e8790d644382e602d6698520185bd748409b74af17308b0e33152509e00a1ba8d6dfb27bd9d"
+    }
+  ]]>
+  </podcast:auth>
+	<podcast:npub>
+  <child>
+    <subchild>value</subchild>
+  </child>
+</root>
