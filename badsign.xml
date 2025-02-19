@@ -2,9 +2,26 @@
     xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
     xmlns:media="http://search.yahoo.com/mrss/" version="2.0" endcoding="UTF-8">
     <channel>
+        <podcast:auth protocol="nostr">
+<![CDATA[{
+    "created_at": 1739991287,
+    "content": "",
+    "kind": 33333,
+    "tags": [
+        [
+            "hash",
+            "666cce28984e0f868b31b5b4fc3f43a68c7ac7dc"
+        ]
+    ],
+    "pubkey": "dfd69dbcccab6613877192be593d6cf6df0586db1a52fdbcaaaf78aba1c25b88",
+    "id": "8fb3e5c038c144a30b740e2cae01a06f5d60d3de8be3609c78d5828f932b5870",
+    "sig": "b3e31802f62639ef4622ba0967e12a486150dfeadd21c2e41f3f42392471533e8a22c6fd6fe9b48527f2956ea6ec4357ae73395425bd0ad9e58e7088c8dad5f1"
+}]]>
+        </podcast:auth>
+        <podcast:npub>npub1mltfm0xv4dnp8pm3j2l9j0tv7m0stpkmrff0m0924au2hgwztwyqj9pdyu</podcast:npub>
         <title>
 <![CDATA[ So, ya'll wanted some playlists, huh? ]]>
-</title>
+        </title>
         <description>This is a demonstration of sharable playlists courtesy of LN Beats. Available
             in all podcasting apps that support the medium=musicL tag.</description>
         <itunes:image href="https://lnbeats.b-cdn.net/playlist600x600.png" />
@@ -12,7 +29,7 @@
         <generator>LN Beats</generator>
         <podcast:value type="lightning" method="keysend">
             <podcast:valueRecipient type="node" name="Music Side Project"
-                address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8"
+                address="0318cd91fe43b9f015707e3f5575154664a6aab931b102a910e7b6212a8e9a6dc3"
                 split="100" />
         </podcast:value>
         <podcast:medium>musicL</podcast:medium>
