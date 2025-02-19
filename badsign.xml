@@ -4,18 +4,18 @@
     <channel>
         <podcast:auth protocol="nostr">
 <![CDATA[{
-    "created_at": 1739991287,
+    "created_at": 1739991573,
     "content": "",
     "kind": 33333,
     "tags": [
         [
             "hash",
-            "666cce28984e0f868b31b5b4fc3f43a68c7ac7dc"
+            "998b5afa31e53f240f769330f14e461e88954c50"
         ]
     ],
     "pubkey": "dfd69dbcccab6613877192be593d6cf6df0586db1a52fdbcaaaf78aba1c25b88",
-    "id": "8fb3e5c038c144a30b740e2cae01a06f5d60d3de8be3609c78d5828f932b5870",
-    "sig": "b3e31802f62639ef4622ba0967e12a486150dfeadd21c2e41f3f42392471533e8a22c6fd6fe9b48527f2956ea6ec4357ae73395425bd0ad9e58e7088c8dad5f1"
+    "id": "976ef1b9fc4ef302f8e036b8097b5d56923b7cc683a00594a90e1dc5bab632dc",
+    "sig": "664b94c25841c99e929ec601ad83be0825c7c3a6f1428c394dc4023a595a97c105f073d36e1e2cc8f52d9605be86a117aba409d13aed01b45a3c981e4ea1b123"
 }]]>
         </podcast:auth>
         <podcast:npub>npub1mltfm0xv4dnp8pm3j2l9j0tv7m0stpkmrff0m0924au2hgwztwyqj9pdyu</podcast:npub>
