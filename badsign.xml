@@ -29,7 +29,7 @@
         <generator>LN Beats</generator>
         <podcast:value type="lightning" method="keysend">
             <podcast:valueRecipient type="node" name="Music Side Project"
-                address="0318cd91fe43b9f015707e3f5575154664a6aab931b102a910e7b6212a8e9a6dc3"
+                address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8"
                 split="100" />
         </podcast:value>
         <podcast:medium>musicL</podcast:medium>
